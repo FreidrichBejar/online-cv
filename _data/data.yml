@@ -12,8 +12,8 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: freidrichbejar@gmail.com | ftbejar@up.edu.ph
-    phone: 09175320086 | 09984071179
+    email: freidrichbejar@gmail.com
+    phone: 09175320086
     timezone: Philippine Standard Time
     citizenship: Filipino
     website: blog.webjeda.com #do not add http://
@@ -22,11 +22,11 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       - idiom: English
@@ -58,66 +58,56 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master of Science in Chemistry
+      university: University of the Philippines Diliman
+      time: On-going since September 2021
+      details:
+    - degree: Bachelor of Science in Chemistry
+      university: Visayas State University
+      time: 2015-2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Received DOST JLSS RA 10612 Scholarship
+        • Thesis: CHARACTERIZATION AND ANTI-BACTERIAL ACTIVITY OF
+        • SYNTHESIZED CHITOSAN-LINKED CALCIUM HYDROXYAPATITE DERIVED
+          FROM CRAB CARAPACE
+        • DOST Scholar AY. 2017-2019
+        • College Scholar AY. 2016-2017
+        • University Scholar AY. 2015-2016
+        Registered Chemist and Chemical Technician
+          • October 2019 Chemists Licensure Examination Passer
+            Rating: 79.55
+          • October 2019 Chemical Technician Licensure Examination Top 7
+            Rating: 90.00
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Special Science Teacher I
+      time: 18 October 2021 – Present
+      company: Department of Education – Division of Samar
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        • Taught Practical Research, Physical Sciences, and Community Engagement, Solidarity and Citizenship subjects.
+        • Designated as Information and Communication Technology Coordinator which function as the overall information and communications repository of the school and maintains the entirety of the school data to ensure the integrity and accuracy of the data reported.
+        • Utilized up-to-date examination/assessment tools to hasten release of results and improve efficiency of workflow.
+        • Crafted an automation system for importing, cleaning, and printing large amounts data from biometrics device.
+        • Led the hosting of several school-wide programs including In-Service Trainings and Graduation.
+        • Accomplished 100% of targets given for the entire school year.
+    - role: Quality Assurance Management Trainee
+      time: 20 Jan 2020 – 25 Jun 2021
+      company: Interphil Laboratories, Inc.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        • Validated several batch manufacturing processes required for regulatory updates and/or application.
+        • Prepared a variety of different written communications, reports and documents to ensure smooth operations.
+        • Resolved problems, improved operations, and provided exceptional service.
+        • Carried out day-to-day analysis of samples using Gas Chromatographs (Shimadzu GC-2010 and GC-2014), Atomic Absorption Spectrometer, and UV-Vis Spectrophotometer.
+        • Worked to maintain outstanding attendance record, consistently arriving to work ready to start immediately.
+        • Used critical thinking to break down problems, evaluate solutions and make decisions.
+    - role: Intern
+      time: June – July 2018
+      company: Cebu Agua Lab, Inc.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        • Carried out analyses adhering to DOH and DENR Standards for
+        Potable Water.
+        • Performed classical methods of analysis such as titration for water
+        hardness, chlorine content, and alkalinity as well as instrumental
+        methods like AAS and Hach Spectrophotometers.
 projects:
     title: Projects
     intro: >
