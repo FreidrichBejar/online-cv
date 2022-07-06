@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Freidrich Bejar
     tagline: Registered Chemist and Chemical Technician
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: bejar.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: freidrichbejar@gmail.com
@@ -88,7 +88,7 @@ experiences:
         • Taught Practical Research, Physical Sciences, and Community Engagement, Solidarity and Citizenship subjects.  
         
         • Designated as Information and Communication Technology Coordinator which function as the overall information and communications repository of the school and maintains the entirety of the school data to ensure the integrity and accuracy of the data reported.  
-       
+
         • Utilized up-to-date examination/assessment tools to hasten release of results and improve efficiency of workflow.  
 
         • Crafted an automation system for importing, cleaning, and printing large amounts data from biometrics device.  
@@ -116,7 +116,7 @@ experiences:
       company: Cebu Agua Lab, Inc.
       details: |
         • Carried out analyses adhering to DOH and DENR Standards for Potable Water.
-        
+
         • Performed classical methods of analysis such as titration for water hardness, chlorine content, and alkalinity as well as instrumental methods like AAS and Hach Spectrophotometers.
 projects:
     title: Projects
