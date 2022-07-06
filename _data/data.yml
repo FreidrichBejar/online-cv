@@ -12,14 +12,13 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: freidrichbejar@gmail.com
-    email: ftbejar@up.edu.ph
+    email: freidrichbejar@gmail.com | ftbejar@up.edu.ph
     phone: 09175320086 | 09984071179
     timezone: Philippine Standard Time
     citizenship: Filipino
     website: blog.webjeda.com #do not add http://
-    linkedin: https://www.linkedin.com/in/freidrich-bejar/
-    github: https://github.com/FreidrichBejar
+    linkedin: freidrich-bejar
+    github: FreidrichBejar
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
